@@ -102,10 +102,10 @@
 
                     <!-- logo -->
                     <div class="logo">
-                        <a href="index.html"><img src="images/logo.png" alt="SmartHeads" class="logo-main"></a>
+                        <a href="index.php"><img src="images/logo.png" alt="SmartHeads" class="logo-main"></a>
                     </div>
                     <div class="mobile-nav-active-logo">
-                        <a href="index.html"><img src="images/logo.png" alt="SmartHeads" class="logo-main"></a>
+                        <a href="index.php"><img src="images/logo.png" alt="SmartHeads" class="logo-main"></a>
                     </div>
                     <!-- #logo -->
 
@@ -123,13 +123,13 @@
 
 
                         <ul class="menu">
-                            <li><a href="index.html">HOME</a>
+                            <li><a href="index.php">HOME</a>
 
                             </li>
-                            <li><a href="portfolio.html">Services</a>
+                            <li><a href="services.php">Services</a>
 
                             </li>
-                            <li><a href="about-us.html">About Us</a></li>
+                            <li><a href="about.php">About Us</a></li>
 
                             <li><a href="contact.html">Contact</a></li>
                         </ul>
@@ -685,16 +685,16 @@
                 <div class="twitter"><a href="contact.html"><i class="fa fa-twitter"></i></a></div>
                 <div class="pinterest"><a href="contact.html"><i class="fa fa-pinterest"></i></a></div>
                 <div class="google-plus"><a href="contact.html"><i class="fa fa-google-plus"></i></a></div>
-                <!--<div class="dribbble"><a href="contact.html"><i class="fa fa-dribbble"></i></a></div>-->
+                <!--<div class="dribbble"><a href="contact.php"><i class="fa fa-dribbble"></i></a></div>-->
                 <div class="linkedin"><a href="contact.html"><i class="fa fa-linkedin"></i></a></div>
-                <!--<div class="flickr"><a href="contact.html"><i class="fa fa-flickr"></i></a></div>-->
-                <!--<div class="youtube"><a href="contact.html"><i class="fa fa-youtube"></i></a></div>-->
-                <!--<div class="rss"><a href="contact.html"><i class="fa fa-rss"></i></a></div>-->
+                <!--<div class="flickr"><a href="contact.php"><i class="fa fa-flickr"></i></a></div>-->
+                <!--<div class="youtube"><a href="contact.php"><i class="fa fa-youtube"></i></a></div>-->
+                <!--<div class="rss"><a href="contact.php"><i class="fa fa-rss"></i></a></div>-->
             </div>
 
 
             <div class="copyright">
-                © Copyright 2015. All rights reserved.
+                © Copyright <?php echo date("Y");?>. All rights reserved.
             </div>
 
 

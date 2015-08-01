@@ -98,10 +98,10 @@
 
                     <!-- logo -->
                     <div class="logo">
-                        <a href="index.html"><img src="images/logo.png" alt="SmartHeads" class="logo-main"></a>
+                        <a href="index.php"><img src="images/logo.png" alt="SmartHeads" class="logo-main"></a>
                     </div>
                     <div class="mobile-nav-active-logo">
-                        <a href="index.html"><img src="images/logo.png" alt="SmartHeads" class="logo-main"></a>
+                        <a href="index.php"><img src="images/logo.png" alt="SmartHeads" class="logo-main"></a>
                     </div>
                     <!-- #logo -->
 
@@ -119,14 +119,14 @@
 
 
                         <ul class="menu">
-                            <li><a href="index.html">HOME</a>
+                            <li><a href="index.php">HOME</a>
                             </li>
                             <li><a href="portfolio.html">Services</a>
 
                             </li>
-                            <li><a href="about-us.html">About Us</a></li>
+                            <li><a href="about.php">About Us</a></li>
 
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                         <div class="toggle">
                             <i class="fa fa-navicon"></i>
@@ -960,7 +960,7 @@
                 <!---->
                 <!--&lt;!&ndash; load-more &ndash;&gt;-->
                 <!--&lt;!&ndash;<div id="load-more" class="load-more">&ndash;&gt;-->
-                    <!--&lt;!&ndash;<a href="portfolio.html" class="button background-black">&ndash;&gt;-->
+                    <!--&lt;!&ndash;<a href="services.php" class="button background-black">&ndash;&gt;-->
                         <!--&lt;!&ndash;<span>Load More</span>&ndash;&gt;-->
                         <!--&lt;!&ndash;<i class="fa fa-angle-right"></i>&ndash;&gt;-->
                     <!--&lt;!&ndash;</a>&ndash;&gt;-->
@@ -993,7 +993,7 @@
 
                     </div>
 
-                    <a href="contact.html" class="button button-border border-aqua margin-top">
+                    <a href="contact.php" class="button button-border border-aqua margin-top">
                         <span class="color-aqua">Get in Touch</span>
                     </a>
                     <!-- #SLOGAN -->
@@ -1026,7 +1026,7 @@
 
 
             <div class="copyright">
-                © Copyright 2015. All rights reserved.
+                © Copyright <?php echo date("Y");?>. All rights reserved.
             </div>
 
 
