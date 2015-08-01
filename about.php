@@ -91,9 +91,6 @@
 </div>
 
 
-
-
-
 <!-- header -->
 <header class="header header-visible" id="header">
 
@@ -115,15 +112,6 @@
 
                 <!-- #nav -->
                 <div class="nav">
-
-
-
-
-                    <!-- search -->
-                    <!--<div class="search">-->
-                        <!--<i class="fa fa-search"></i>-->
-                    <!--</div>-->
-                    <!-- #search -->
 
 
                     <ul class="menu">
@@ -218,13 +206,21 @@
         <!-- our company description  -->
         <div class="our-description">
             <p>
-                SmartHeads is a collaboration of shanreen tech and design edge which is providing highly professional, innovative and proficient web designing/development graphic designing and custom software development services and solutions to all over the globe with a panel of skilled, experienced and professional designers & developers.
+                SmartHeads is a collaboration of shanreen tech and design edge which is providing highly professional,
+                innovative and proficient web designing/development graphic designing and custom software development
+                services and solutions to all over the globe with a panel of skilled, experienced and professional
+                designers & developers.
             </p>
+
             <p>
-                SmartHeads core strengths lie in creativity, exclusivity, visual effects and research based approach. Equipped with the latest technology highly experienced hands to offer most user friendly customized solution.
+                SmartHeads core strengths lie in creativity, exclusivity, visual effects and research based approach.
+                Equipped with the latest technology highly experienced hands to offer most user friendly customized
+                solution.
             </p>
+
             <p>
-                SmartHeads is known for its high quality on & off site services using latest platforms of technology and tools.
+                SmartHeads is known for its high quality on & off site services using latest platforms of technology and
+                tools.
             </p>
             <ul>
                 <li>Highly professional team</li>
@@ -345,7 +341,8 @@
 
             <!-- Service description -->
             <div class="service-description">
-                Creativity is more than just being different. Anybody can plan weird; that's easy. What's hard is to be as simple as Bach. Making the simple, awesomely simple, that's creativity.
+                Creativity is more than just being different. Anybody can plan weird; that's easy. What's hard is to be
+                as simple as Bach. Making the simple, awesomely simple, that's creativity.
             </div>
             <!-- #Service description -->
 
@@ -440,7 +437,8 @@
 
             <!-- Service description -->
             <div class="service-description">
-                we believe good design should solve problems and position of a brand so it stands out as well as stands for something.
+                we believe good design should solve problems and position of a brand so it stands out as well as stands
+                for something.
             </div>
             <!-- #Service description -->
 
@@ -457,7 +455,8 @@
     </div>
     <!-- #Services in -->
 
-</div><!-- #Services Section -->
+</div>
+<!-- #Services Section -->
 
 <!-- section -->
 <div class="section">
@@ -651,320 +650,111 @@
 <!-- client section -->
 <div class="section section-border background-white margin-bottom padding-top client-section">
 
-<!-- section title -->
-<div class="section-title">
-    Our Clients
-</div>
-<!-- #section title -->
-
-<!-- divider star -->
-<div class="divider-star">
-    <i class="fa fa-star-o"></i>
-</div>
-<!-- #divider star -->
-
-<!-- section paragraph -->
-<div class="section-paragraph">
-    We work with a variety of clients all across the globe – keeping a familiar synergy <br>
-    with multiple products and market segments.
-</div>
-<!-- #section paragraph -->
-
-
-<!-- Client Logos -->
-<div class="client-logos margin-top">
-
-    <!-- Client Logo -->
-    <div class="client-logo">
-        <!-- Logo image -->
-        <img src="images/client-logo-1.png" alt="">
-        <!-- Logo image -->
+    <!-- section title -->
+    <div class="section-title">
+        Our Clients
     </div>
-    <!-- #Client Logo -->
+    <!-- #section title -->
 
-    <!-- Client Logo -->
-    <div class="client-logo">
-        <!-- Logo image -->
-        <img src="images/client-logo-2.png" alt="">
-        <!-- Logo image -->
+    <!-- divider star -->
+    <div class="divider-star">
+        <i class="fa fa-star-o"></i>
     </div>
-    <!-- #Client Logo -->
+    <!-- #divider star -->
 
-    <!-- Client Logo -->
-    <div class="client-logo">
-        <!-- Logo image -->
-        <img src="images/client-logo-3.png" alt="">
-        <!-- Logo image -->
+    <!-- section paragraph -->
+    <div class="section-paragraph">
+        We work with a variety of clients all across the globe – keeping a familiar synergy <br>
+        with multiple products and market segments.
     </div>
-    <!-- #Client Logo -->
+    <!-- #section paragraph -->
 
-    <!-- Client Logo -->
-    <div class="client-logo">
-        <!-- Logo image -->
-        <img src="images/client-logo-4.png" alt="">
-        <!-- Logo image -->
+
+    <!-- Client Logos -->
+    <div class="client-logos margin-top">
+
+        <!-- Client Logo -->
+        <div class="client-logo">
+            <!-- Logo image -->
+            <img src="images/client-logo-1.png" alt="">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo">
+            <!-- Logo image -->
+            <img src="images/client-logo-2.png" alt="">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo">
+            <!-- Logo image -->
+            <img src="images/client-logo-3.png" alt="">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo">
+            <!-- Logo image -->
+            <img src="images/client-logo-4.png" alt="">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo">
+            <!-- Logo image -->
+            <img src="images/client-logo-5.png" alt="">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo">
+            <!-- Logo image -->
+            <img src="images/client-logo-6.png" alt="">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo">
+            <!-- Logo image -->
+            <img src="images/client-logo-7.png" alt="">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo">
+            <!-- Logo image -->
+            <img src="images/client-logo-8.png" alt="">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo">
+            <!-- Logo image -->
+            <img src="images/client-logo-9.png" alt="">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo">
+            <!-- Logo image -->
+            <img src="images/client-logo-10.png" alt="">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
     </div>
-    <!-- #Client Logo -->
-
-    <!-- Client Logo -->
-    <div class="client-logo">
-        <!-- Logo image -->
-        <img src="images/client-logo-5.png" alt="">
-        <!-- Logo image -->
-    </div>
-    <!-- #Client Logo -->
-
-    <!-- Client Logo -->
-    <div class="client-logo">
-        <!-- Logo image -->
-        <img src="images/client-logo-6.png" alt="">
-        <!-- Logo image -->
-    </div>
-    <!-- #Client Logo -->
-
-    <!-- Client Logo -->
-    <div class="client-logo">
-        <!-- Logo image -->
-        <img src="images/client-logo-7.png" alt="">
-        <!-- Logo image -->
-    </div>
-    <!-- #Client Logo -->
-
-    <!-- Client Logo -->
-    <div class="client-logo">
-        <!-- Logo image -->
-        <img src="images/client-logo-8.png" alt="">
-        <!-- Logo image -->
-    </div>
-    <!-- #Client Logo -->
-
-    <!-- Client Logo -->
-    <div class="client-logo">
-        <!-- Logo image -->
-        <img src="images/client-logo-9.png" alt="">
-        <!-- Logo image -->
-    </div>
-    <!-- #Client Logo -->
-
-    <!-- Client Logo -->
-    <div class="client-logo">
-        <!-- Logo image -->
-        <img src="images/client-logo-10.png" alt="">
-        <!-- Logo image -->
-    </div>
-    <!-- #Client Logo -->
-
-</div>
-<!-- #Client Logos -->
-
-
-<!-- TESTIMONIALS -->
-<!--<div class="testimonials">-->
-<!--&lt;!&ndash; CLIENTS PICTURES &ndash;&gt;-->
-<!--<div class="clients_pictures">-->
-
-    <!--&lt;!&ndash; clients pictures &ndash;&gt;-->
-    <!--<div class="clients_picture">-->
-        <!--&lt;!&ndash; clients pictures img &ndash;&gt;-->
-        <!--<img src="images/per1.jpg" alt="">-->
-        <!--&lt;!&ndash; #clients pictures img &ndash;&gt;-->
-    <!--</div>-->
-    <!--&lt;!&ndash; #clients pictures &ndash;&gt;-->
-
-    <!--&lt;!&ndash; clients pictures &ndash;&gt;-->
-    <!--<div class="clients_picture">-->
-        <!--&lt;!&ndash; clients pictures img &ndash;&gt;-->
-        <!--<img src="images/per2.jpg" alt="">-->
-        <!--&lt;!&ndash; #clients pictures img &ndash;&gt;-->
-    <!--</div>-->
-    <!--&lt;!&ndash; #clients pictures &ndash;&gt;-->
-
-    <!--&lt;!&ndash; clients pictures &ndash;&gt;-->
-    <!--<div class="clients_picture">-->
-        <!--&lt;!&ndash; clients pictures img &ndash;&gt;-->
-        <!--<img src="images/per3.jpg" alt="">-->
-        <!--&lt;!&ndash; #clients pictures img &ndash;&gt;-->
-    <!--</div>-->
-    <!--&lt;!&ndash; #clients pictures &ndash;&gt;-->
-
-    <!--&lt;!&ndash; clients pictures &ndash;&gt;-->
-    <!--<div class="clients_picture">-->
-        <!--&lt;!&ndash; clients pictures img &ndash;&gt;-->
-        <!--<img src="images/per4.jpg" alt="">-->
-        <!--&lt;!&ndash; #clients pictures img &ndash;&gt;-->
-    <!--</div>-->
-    <!--&lt;!&ndash; #clients pictures &ndash;&gt;-->
-
-    <!--&lt;!&ndash; clients pictures &ndash;&gt;-->
-    <!--<div class="clients_picture">-->
-        <!--&lt;!&ndash; clients pictures img &ndash;&gt;-->
-        <!--<img src="images/per5.jpg" alt="">-->
-        <!--&lt;!&ndash; #clients pictures img &ndash;&gt;-->
-    <!--</div>-->
-    <!--&lt;!&ndash; #clients pictures &ndash;&gt;-->
-
-    <!--&lt;!&ndash; clients pictures &ndash;&gt;-->
-    <!--<div class="clients_picture">-->
-        <!--&lt;!&ndash; clients pictures img &ndash;&gt;-->
-        <!--<img src="images/per6.jpg" alt="">-->
-        <!--&lt;!&ndash; #clients pictures img &ndash;&gt;-->
-    <!--</div>-->
-    <!--&lt;!&ndash; #clients pictures &ndash;&gt;-->
-
-    <!--&lt;!&ndash; clients pictures &ndash;&gt;-->
-    <!--<div class="clients_picture">-->
-        <!--&lt;!&ndash; clients pictures img &ndash;&gt;-->
-        <!--<img src="images/per7.jpg" alt="">-->
-        <!--&lt;!&ndash; #clients pictures img &ndash;&gt;-->
-    <!--</div>-->
-    <!--&lt;!&ndash; #clients pictures &ndash;&gt;-->
-
-    <!--&lt;!&ndash; clients pictures &ndash;&gt;-->
-    <!--<div class="clients_picture">-->
-        <!--&lt;!&ndash; clients pictures img &ndash;&gt;-->
-        <!--<img src="images/per8.jpg" alt="">-->
-        <!--&lt;!&ndash; #clients pictures img &ndash;&gt;-->
-    <!--</div>-->
-    <!--&lt;!&ndash; #clients pictures &ndash;&gt;-->
-
-<!--</div>-->
-<!--&lt;!&ndash; #CLIENTS PICTURES &ndash;&gt;-->
-<!--&lt;!&ndash; #TESTIMONIAL &ndash;&gt;-->
-<!--<div class="testimonial">-->
-
-    <!--&lt;!&ndash; testimonial in &ndash;&gt;-->
-    <!--<div class="testimonial-in">-->
-
-        <!--&lt;!&ndash; testimonial description &ndash;&gt;-->
-                            <!--<span class="testimonial-in-des">-->
-                                <!--With comprehensive understanding of the challenges involved in good design and high-spec product development, they really know their stuff. We will use them again and actively recommend them to others.-->
-                            <!--</span>-->
-        <!--&lt;!&ndash; #testimonial description &ndash;&gt;-->
-
-        <!--&lt;!&ndash; testimonial author &ndash;&gt;-->
-        <!--<span class="testimonial-in-author"><b>Tım Cook</b> Ceo - Apple</span>-->
-        <!--&lt;!&ndash; #testimonial author &ndash;&gt;-->
-
-    <!--</div>-->
-    <!--&lt;!&ndash; #testimonial in &ndash;&gt;-->
-
-    <!--&lt;!&ndash; testimonial in &ndash;&gt;-->
-    <!--<div class="testimonial-in">-->
-
-        <!--&lt;!&ndash; testimonial description &ndash;&gt;-->
-                            <!--<span class="testimonial-in-des">-->
-                                <!--they really know their stuff. We will use them again and actively recommend them to others.With comprehensive understanding of the challenges involved in good design and high-spec product development, -->
-                            <!--</span>-->
-        <!--&lt;!&ndash; #testimonial description &ndash;&gt;-->
-
-        <!--&lt;!&ndash; testimonial author &ndash;&gt;-->
-        <!--<span class="testimonial-in-author"><b>Tım Cook</b> Ceo - Apple</span>-->
-        <!--&lt;!&ndash; #testimonial author &ndash;&gt;-->
-
-    <!--</div>-->
-    <!--&lt;!&ndash; #testimonial in &ndash;&gt;-->
-
-    <!--&lt;!&ndash; testimonial in &ndash;&gt;-->
-    <!--<div class="testimonial-in">-->
-
-        <!--&lt;!&ndash; testimonial description &ndash;&gt;-->
-                            <!--<span class="testimonial-in-des">-->
-                                <!--they really know their stuff. We will use them again and actively recommend them to others.With comprehensive understanding of the challenges involved in good design and high-spec product development, -->
-                            <!--</span>-->
-        <!--&lt;!&ndash; #testimonial description &ndash;&gt;-->
-
-        <!--&lt;!&ndash; testimonial author &ndash;&gt;-->
-        <!--<span class="testimonial-in-author"><b>Tım Cook</b> Ceo - Apple</span>-->
-        <!--&lt;!&ndash; #testimonial author &ndash;&gt;-->
-
-    <!--</div>-->
-    <!--&lt;!&ndash; #testimonial in &ndash;&gt;-->
-
-    <!--&lt;!&ndash; testimonial in &ndash;&gt;-->
-    <!--<div class="testimonial-in">-->
-
-        <!--&lt;!&ndash; testimonial description &ndash;&gt;-->
-                            <!--<span class="testimonial-in-des">-->
-                                <!--With comprehensive understanding of tdevelopment, they really know their stuff. We will use them again and actively recommend them to others.development, they really know their stuff. We will use them again and actively recommend them to others.he challenges involved in good design and high-spec product -->
-                            <!--</span>-->
-        <!--&lt;!&ndash; #testimonial description &ndash;&gt;-->
-
-        <!--&lt;!&ndash; testimonial author &ndash;&gt;-->
-        <!--<span class="testimonial-in-author"><b>Tım Cook</b> Ceo - Apple</span>-->
-        <!--&lt;!&ndash; #testimonial author &ndash;&gt;-->
-
-    <!--</div>-->
-    <!--&lt;!&ndash; #testimonial in &ndash;&gt;-->
-
-    <!--&lt;!&ndash; testimonial in &ndash;&gt;-->
-    <!--<div class="testimonial-in">-->
-
-        <!--&lt;!&ndash; testimonial description &ndash;&gt;-->
-                            <!--<span class="testimonial-in-des">-->
-                                <!--With comprehensivy really know their stuff. We will use them again and actively recommend them to others.e understanding of the challenges involved in good design and high-spec product devely really know their stuff. We will use them again and actively recommend them to others.opment, the-->
-                            <!--</span>-->
-        <!--&lt;!&ndash; #testimonial description &ndash;&gt;-->
-
-        <!--&lt;!&ndash; testimonial author &ndash;&gt;-->
-        <!--<span class="testimonial-in-author"><b>Tım Cook</b> Ceo - Apple</span>-->
-        <!--&lt;!&ndash; #testimonial author &ndash;&gt;-->
-
-    <!--</div>-->
-    <!--&lt;!&ndash; #testimonial in &ndash;&gt;-->
-
-    <!--&lt;!&ndash; testimonial in &ndash;&gt;-->
-    <!--<div class="testimonial-in">-->
-
-        <!--&lt;!&ndash; testimonial description &ndash;&gt;-->
-                            <!--<span class="testimonial-in-des">-->
-                                <!--With comprehensive understanding ofs. the challenges s.involved in good design and high-spec product des.velopment, they really ks.now their stuff. We will uss.e ts.hem again and actively recommend ts.s.hem to oths.er-->
-                            <!--</span>-->
-        <!--&lt;!&ndash; #testimonial description &ndash;&gt;-->
-
-        <!--&lt;!&ndash; testimonial author &ndash;&gt;-->
-        <!--<span class="testimonial-in-author"><b>Tım Cook</b> Ceo - Apple</span>-->
-        <!--&lt;!&ndash; #testimonial author &ndash;&gt;-->
-
-    <!--</div>-->
-    <!--&lt;!&ndash; #testimonial in &ndash;&gt;-->
-
-    <!--&lt;!&ndash; testimonial in &ndash;&gt;-->
-    <!--<div class="testimonial-in">-->
-
-        <!--&lt;!&ndash; testimonial description &ndash;&gt;-->
-                            <!--<span class="testimonial-in-des">-->
-                                <!--With comprehensive understanding of the challenges involved in good design and high-spec product developmemend them to others.nt, they rmend them to others.mend them to omend them to others.thers.eally know their stuff. We will use them again and actively recom-->
-                            <!--</span>-->
-        <!--&lt;!&ndash; #testimonial description &ndash;&gt;-->
-
-        <!--&lt;!&ndash; testimonial author &ndash;&gt;-->
-        <!--<span class="testimonial-in-author"><b>Tım Cook</b> Ceo - Apple</span>-->
-        <!--&lt;!&ndash; #testimonial author &ndash;&gt;-->
-
-    <!--</div>-->
-    <!--&lt;!&ndash; #testimonial in &ndash;&gt;-->
-
-    <!--&lt;!&ndash; testimonial in &ndash;&gt;-->
-    <!--<div class="testimonial-in">-->
-
-        <!--&lt;!&ndash; testimonial description &ndash;&gt;-->
-                            <!--<span class="testimonial-in-des">-->
-                                <!--With comprehenmend them to others.sive understanding of the challenges mend them to others.mend them to others.involved in good design and high-spec product development, they reallymend them to others.mend them to others.mend them to others. know their stuff. We will use them again and actively recommend thmend them to others.em to others.-->
-                            <!--</span>-->
-        <!--&lt;!&ndash; #testimonial description &ndash;&gt;-->
-
-        <!--&lt;!&ndash; testimonial author &ndash;&gt;-->
-        <!--<span class="testimonial-in-author"><b>Tım Cook</b> Ceo - Apple</span>-->
-        <!--&lt;!&ndash; #testimonial author &ndash;&gt;-->
-
-    <!--</div>-->
-    <!--&lt;!&ndash; #testimonial in &ndash;&gt;-->
-
-
-<!--</div>-->
-<!--&lt;!&ndash; #TESTIMONIAL &ndash;&gt;-->
-<!--</div>-->
-<!-- #TESTIMONIALS -->
+    <!-- #Client Logos -->
 
 
 </div>
@@ -1017,16 +807,12 @@
         <div class="twitter"><a href="about-us.html"><i class="fa fa-twitter"></i></a></div>
         <div class="pinterest"><a href="about-us.html"><i class="fa fa-pinterest"></i></a></div>
         <div class="google-plus"><a href="about-us.html"><i class="fa fa-google-plus"></i></a></div>
-        <!--<div class="dribbble"><a href="about.php"><i class="fa fa-dribbble"></i></a></div>-->
         <div class="linkedin"><a href="about-us.html"><i class="fa fa-linkedin"></i></a></div>
-        <!--<div class="flickr"><a href="about.php"><i class="fa fa-flickr"></i></a></div>-->
-        <!--<div class="youtube"><a href="about.php"><i class="fa fa-youtube"></i></a></div>-->
-        <!--<div class="rss"><a href="about.php"><i class="fa fa-rss"></i></a></div>-->
     </div>
 
 
     <div class="copyright">
-        © Copyright <?php echo date("Y");?>. All rights reserved.
+        © Copyright <?php echo date("Y"); ?>. All rights reserved.
     </div>
 
 
