@@ -2531,7 +2531,6 @@ a.button:hover:before{
   border-right: 1px solid #f0f0f0;
   border-top: 1px solid #f0f0f0;
 }
-
 .client-section .client-logos .client-logo:nth-child(5n+0){
   border-right: none;
 }

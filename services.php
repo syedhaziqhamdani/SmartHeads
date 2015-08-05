@@ -114,7 +114,7 @@
                     <ul class="menu">
                         <li><a href="index.php">HOME</a>
                         </li>
-                        <li><a href="portfolio.html">Services</a>
+                        <li><a href="services.php">Services</a>
 
                         </li>
                         <li><a href="about.php">About Us</a></li>
@@ -197,7 +197,7 @@
     <!-- #portfolio work assets-->
 
     <!-- portfolio work info-->
-    <a href="portfolio.html">
+    <a href="#">
         <div class="portfolio-work-info">
 
             <!-- portfolio work info in -->
@@ -249,7 +249,7 @@
 
 
     <!-- portfolio work info-->
-    <a href="portfolio.html">
+    <a href="#">
         <div class="portfolio-work-info">
 
             <!-- portfolio work info in -->
@@ -298,7 +298,7 @@
     </div>
     <!-- #portfolio work assets-->
     <!-- portfolio work info-->
-    <a href="portfolio.html">
+    <a href="#">
         <div class="portfolio-work-info">
 
             <!-- portfolio work info in -->
@@ -348,7 +348,7 @@
     <!-- #portfolio work assets-->
 
     <!-- portfolio work info-->
-    <a href="portfolio.html">
+    <a href="#">
         <div class="portfolio-work-info">
 
             <!-- portfolio work info in -->
@@ -392,12 +392,12 @@
 
     <!-- portfolio work assets-->
     <div class="portfolio-work-assets">
-        <img src="images/portfolio/test2.jpg" alt="">
+        <img src="images/portfolio/5.jpg" alt="">
     </div>
     <!-- #portfolio work assets-->
 
     <!-- portfolio work info-->
-    <a href="portfolio.html">
+    <a href="#">
         <div class="portfolio-work-info">
 
             <!-- portfolio work info in -->
@@ -405,7 +405,7 @@
 
                 <!-- portfolio work info in title -->
                 <h2 class="portfolio-work-info-title">
-                    Graphic Design
+                    Software Development
                 </h2>
                 <!-- #portfolio work info in title -->
 
@@ -443,12 +443,12 @@
 
     <!-- portfolio work assets-->
     <div class="portfolio-work-assets">
-        <img src="images/portfolio/5.jpg" alt="">
+        <img src="images/portfolio/test2.jpg" alt="">
     </div>
     <!-- #portfolio work assets-->
 
     <!-- portfolio work info-->
-    <a href="portfolio.html">
+    <a href="#">
         <div class="portfolio-work-info">
 
             <!-- portfolio work info in -->
@@ -456,7 +456,7 @@
 
                 <!-- portfolio work info in title -->
                 <h2 class="portfolio-work-info-title">
-                    Software Development
+                    Graphic Design
                 </h2>
                 <!-- #portfolio work info in title -->
 
@@ -493,7 +493,11 @@
 <!-- #portfolio works -->
 </div>
 
+<div class="row" style="margin-bottom: 80px;">
+    <div class="col-lg-12">
 
+    </div>
+    </div>
 <!-- parallax section -->
 <div class="parallax-section section">
 
@@ -535,11 +539,11 @@
 
 <footer id="footer">
     <div class="social_icons">
-        <div class="facebook"><a href="portfolio.html"><i class="fa fa-facebook"></i></a></div>
-        <div class="twitter"><a href="portfolio.html"><i class="fa fa-twitter"></i></a></div>
-        <div class="pinterest"><a href="portfolio.html"><i class="fa fa-pinterest"></i></a></div>
-        <div class="google-plus"><a href="portfolio.html"><i class="fa fa-google-plus"></i></a></div>
-        <div class="linkedin"><a href="portfolio.html"><i class="fa fa-linkedin"></i></a></div>
+        <div class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></div>
+        <div class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></div>
+        <div class="pinterest"><a href="#"><i class="fa fa-pinterest"></i></a></div>
+<!--        <div class="google-plus"><a href="#"><i class="fa fa-google-plus"></i></a></div>-->
+        <div class="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></div>
     </div>
     <div class="copyright">
         © Copyright <?php echo date("Y"); ?>. All rights reserved.

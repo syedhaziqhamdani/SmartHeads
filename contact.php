@@ -124,7 +124,7 @@
                         </li>
                         <li><a href="about.php">About Us</a></li>
 
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="contact.php">Contact</a></li>
                     </ul>
                     <div class="toggle">
                         <i class="fa fa-navicon"></i>
@@ -324,7 +324,7 @@
         <!-- Client Logo -->
         <div class="client-logo">
             <!-- Logo image -->
-            <img src="images/client-logo-1.png" alt="">
+            <img src="clients/1.jpg" alt="">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
@@ -332,7 +332,7 @@
         <!-- Client Logo -->
         <div class="client-logo">
             <!-- Logo image -->
-            <img src="images/client-logo-2.png" alt="">
+            <img src="clients/7.jpg" alt="">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
@@ -340,7 +340,7 @@
         <!-- Client Logo -->
         <div class="client-logo">
             <!-- Logo image -->
-            <img src="images/client-logo-3.png" alt="">
+            <img src="clients/3.jpg" alt="">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
@@ -348,7 +348,7 @@
         <!-- Client Logo -->
         <div class="client-logo">
             <!-- Logo image -->
-            <img src="images/client-logo-4.png" alt="">
+            <img src="clients/8.jpg" alt="">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
@@ -356,47 +356,47 @@
         <!-- Client Logo -->
         <div class="client-logo">
             <!-- Logo image -->
-            <img src="images/client-logo-5.png" alt="">
+            <img src="clients/5.jpg" alt="">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
 
         <!-- Client Logo -->
-        <div class="client-logo">
+        <div class="client-logo" class="hidden" style="border: 0px;">
             <!-- Logo image -->
-            <img src="images/client-logo-6.png" alt="">
-            <!-- Logo image -->
-        </div>
-        <!-- #Client Logo -->
-
-        <!-- Client Logo -->
-        <div class="client-logo">
-            <!-- Logo image -->
-            <img src="images/client-logo-7.png" alt="">
+            <img src="images/client-logo-6.png" alt="" class="hidden" style="border: 0px;">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
 
         <!-- Client Logo -->
-        <div class="client-logo">
+        <div class="client-logo" class="hidden" style="border: 0px;">
             <!-- Logo image -->
-            <img src="images/client-logo-8.png" alt="">
-            <!-- Logo image -->
-        </div>
-        <!-- #Client Logo -->
-
-        <!-- Client Logo -->
-        <div class="client-logo">
-            <!-- Logo image -->
-            <img src="images/client-logo-9.png" alt="">
+            <img src="clients/6.jpg" alt="" class="hidden" style="border: 0px;">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
 
         <!-- Client Logo -->
-        <div class="client-logo">
+        <div class="client-logo" class="hidden" style="border: 0px;">
             <!-- Logo image -->
-            <img src="images/client-logo-10.png" alt="">
+            <img src="clients/7.jpg" alt="" class="hidden" style="border: 0px;">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo" class="hidden" style="border: 0px;">
+            <!-- Logo image -->
+            <img src="clients/8.jpg" alt="" class="hidden" style="border: 0px;">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo" class="hidden" style="border: 0px;">
+            <!-- Logo image -->
+            <img src="images/client-logo-10.png" alt="" class="hidden" style="border: 0px;">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
@@ -451,11 +451,11 @@
 <footer id="footer">
 
     <div class="social_icons">
-        <div class="facebook"><a href="contact.html"><i class="fa fa-facebook"></i></a></div>
-        <div class="twitter"><a href="contact.html"><i class="fa fa-twitter"></i></a></div>
-        <div class="pinterest"><a href="contact.html"><i class="fa fa-pinterest"></i></a></div>
-        <div class="google-plus"><a href="contact.html"><i class="fa fa-google-plus"></i></a></div>
-        <div class="linkedin"><a href="contact.html"><i class="fa fa-linkedin"></i></a></div>
+        <div class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></div>
+        <div class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></div>
+        <div class="pinterest"><a href="#"><i class="fa fa-pinterest"></i></a></div>
+<!--        <div class="google-plus"><a href="#"><i class="fa fa-google-plus"></i></a></div>-->
+        <div class="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></div>
     </div>
 
 

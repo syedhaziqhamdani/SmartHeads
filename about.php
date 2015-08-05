@@ -121,7 +121,7 @@
                         <li><a href="services.php">Services</a>
 
                         </li>
-                        <li><a href="about-us.html">About Us</a></li>
+                        <li><a href="about.php">About Us</a></li>
 
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
@@ -308,7 +308,7 @@
                 Mobile Applications
             </div>
             <!-- bar -->
-            <div class="skill-bar" data-bar="60"><span></span></div>
+            <div class="skill-bar" data-bar="75"><span></span></div>
         </div>
         <!-- #skill -->
 
@@ -535,7 +535,7 @@
 
                 <!-- position -->
                 <div class="position">
-                    C.E.O
+                    Founder
                 </div>
 
                 <!-- name -->
@@ -547,12 +547,12 @@
                 <div class="clear"></div>
 
                 <!-- social icon -->
-                <div class="social-icons">
-                    <a class="facebook" href="about-us.html"><i class="fa fa-facebook"></i></a>
-                    <a class="twitter" href="about-us.html"><i class="fa fa-twitter"></i></a>
-                    <a class="dribbble" href="about-us.html"><i class="fa fa-dribbble"></i></a>
-                    <a class="youtube" href="about-us.html"><i class="fa fa-youtube"></i></a>
-                </div>
+<!--                <div class="social-icons">-->
+<!--                    <a class="facebook" href="about-us.html"><i class="fa fa-facebook"></i></a>-->
+<!--                    <a class="twitter" href="about-us.html"><i class="fa fa-twitter"></i></a>-->
+<!--                    <a class="dribbble" href="about-us.html"><i class="fa fa-dribbble"></i></a>-->
+<!--                    <a class="youtube" href="about-us.html"><i class="fa fa-youtube"></i></a>-->
+<!--                </div>-->
                 <!-- #social icon -->
 
             </div>
@@ -574,7 +574,7 @@
 
                 <!-- position -->
                 <div class="position">
-                    C.T.O
+                    Co-Founder
                 </div>
 
                 <!-- name -->
@@ -586,12 +586,12 @@
                 <div class="clear"></div>
 
                 <!-- social icon -->
-                <div class="social-icons">
-                    <a class="facebook" href="about-us.html"><i class="fa fa-facebook"></i></a>
-                    <a class="twitter" href="about-us.html"><i class="fa fa-twitter"></i></a>
-                    <a class="dribbble" href="about-us.html"><i class="fa fa-dribbble"></i></a>
-                    <a class="youtube" href="about-us.html"><i class="fa fa-youtube"></i></a>
-                </div>
+<!--                <div class="social-icons">-->
+<!--                    <a class="facebook" href="about-us.html"><i class="fa fa-facebook"></i></a>-->
+<!--                    <a class="twitter" href="about-us.html"><i class="fa fa-twitter"></i></a>-->
+<!--                    <a class="dribbble" href="about-us.html"><i class="fa fa-dribbble"></i></a>-->
+<!--                    <a class="youtube" href="about-us.html"><i class="fa fa-youtube"></i></a>-->
+<!--                </div>-->
                 <!-- #social icon -->
 
             </div>
@@ -613,7 +613,7 @@
 
                 <!-- position -->
                 <div class="position">
-                    Developer
+                    Co-Founder
                 </div>
 
                 <!-- name -->
@@ -625,12 +625,12 @@
                 <div class="clear"></div>
 
                 <!-- social icon -->
-                <div class="social-icons">
-                    <a class="facebook" href="about-us.html"><i class="fa fa-facebook"></i></a>
-                    <a class="twitter" href="about-us.html"><i class="fa fa-twitter"></i></a>
-                    <a class="dribbble" href="about-us.html"><i class="fa fa-dribbble"></i></a>
-                    <a class="youtube" href="about-us.html"><i class="fa fa-youtube"></i></a>
-                </div>
+<!--                <div class="social-icons">-->
+<!--                    <a class="facebook" href="about-us.html"><i class="fa fa-facebook"></i></a>-->
+<!--                    <a class="twitter" href="about-us.html"><i class="fa fa-twitter"></i></a>-->
+<!--                    <a class="dribbble" href="about-us.html"><i class="fa fa-dribbble"></i></a>-->
+<!--                    <a class="youtube" href="about-us.html"><i class="fa fa-youtube"></i></a>-->
+<!--                </div>-->
                 <!-- #social icon -->
 
             </div>
@@ -676,7 +676,7 @@
         <!-- Client Logo -->
         <div class="client-logo">
             <!-- Logo image -->
-            <img src="images/client-logo-1.png" alt="">
+            <img src="clients/1.jpg" alt="">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
@@ -684,7 +684,7 @@
         <!-- Client Logo -->
         <div class="client-logo">
             <!-- Logo image -->
-            <img src="images/client-logo-2.png" alt="">
+            <img src="clients/7.jpg" alt="">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
@@ -692,7 +692,7 @@
         <!-- Client Logo -->
         <div class="client-logo">
             <!-- Logo image -->
-            <img src="images/client-logo-3.png" alt="">
+            <img src="clients/3.jpg" alt="">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
@@ -700,7 +700,7 @@
         <!-- Client Logo -->
         <div class="client-logo">
             <!-- Logo image -->
-            <img src="images/client-logo-4.png" alt="">
+            <img src="clients/8.jpg" alt="">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
@@ -708,51 +708,50 @@
         <!-- Client Logo -->
         <div class="client-logo">
             <!-- Logo image -->
-            <img src="images/client-logo-5.png" alt="">
+            <img src="clients/5.jpg" alt="" >
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
 
         <!-- Client Logo -->
-        <div class="client-logo">
+        <div class="client-logo" class="hidden" style="border: 0px;">
             <!-- Logo image -->
-            <img src="images/client-logo-6.png" alt="">
-            <!-- Logo image -->
-        </div>
-        <!-- #Client Logo -->
-
-        <!-- Client Logo -->
-        <div class="client-logo">
-            <!-- Logo image -->
-            <img src="images/client-logo-7.png" alt="">
+            <img src="images/client-logo-6.png" alt="" class="hidden" style="border: 0px;">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
 
         <!-- Client Logo -->
-        <div class="client-logo">
+        <div class="client-logo" class="hidden" style="border: 0px;">
             <!-- Logo image -->
-            <img src="images/client-logo-8.png" alt="">
-            <!-- Logo image -->
-        </div>
-        <!-- #Client Logo -->
-
-        <!-- Client Logo -->
-        <div class="client-logo">
-            <!-- Logo image -->
-            <img src="images/client-logo-9.png" alt="">
+            <img src="clients/6.jpg" alt="" class="hidden" style="border: 0px;">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
 
         <!-- Client Logo -->
-        <div class="client-logo">
+        <div class="client-logo" class="hidden" style="border: 0px;">
             <!-- Logo image -->
-            <img src="images/client-logo-10.png" alt="">
+            <img src="clients/7.jpg" alt="" class="hidden" style="border: 0px;">
             <!-- Logo image -->
         </div>
         <!-- #Client Logo -->
 
+        <!-- Client Logo -->
+        <div class="client-logo" class="hidden" style="border: 0px;">
+            <!-- Logo image -->
+            <img src="clients/8.jpg" alt="" class="hidden" style="border: 0px;">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
+
+        <!-- Client Logo -->
+        <div class="client-logo" class="hidden" style="border: 0px;">
+            <!-- Logo image -->
+            <img src="images/client-logo-10.png" alt="" class="hidden" style="border: 0px;">
+            <!-- Logo image -->
+        </div>
+        <!-- #Client Logo -->
     </div>
     <!-- #Client Logos -->
 
@@ -803,11 +802,11 @@
 <footer id="footer">
 
     <div class="social_icons">
-        <div class="facebook"><a href="about-us.html"><i class="fa fa-facebook"></i></a></div>
-        <div class="twitter"><a href="about-us.html"><i class="fa fa-twitter"></i></a></div>
-        <div class="pinterest"><a href="about-us.html"><i class="fa fa-pinterest"></i></a></div>
-        <div class="google-plus"><a href="about-us.html"><i class="fa fa-google-plus"></i></a></div>
-        <div class="linkedin"><a href="about-us.html"><i class="fa fa-linkedin"></i></a></div>
+        <div class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></div>
+        <div class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></div>
+        <div class="pinterest"><a href="#"><i class="fa fa-pinterest"></i></a></div>
+<!--        <div class="google-plus"><a href="#"><i class="fa fa-google-plus"></i></a></div>-->
+        <div class="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></div>
     </div>
 
 
