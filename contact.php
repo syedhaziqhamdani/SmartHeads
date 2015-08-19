@@ -9,8 +9,9 @@
           content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height"/>
     <meta name="HandheldFriendly" content="true"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>SmartHeads</title>
-
+    <title>SmartHeads - Contact us</title>
+    <meta name="Description" content="SmartHeads - A creative agency that builds awesome stuff all day, every day. And we’ve had the privilege to work with some awesome clients.">
+    <meta name="Keywords" content="SmartHeads, Web Designing, Graphic Designing, Software Consultancy, Software Development, Web Development, Mobile Application Development, Social Media Marketing">
     <!-- JQUERY -->
     <script type="text/javascript" src="js/jquery.min.js"></script>
 
@@ -82,7 +83,7 @@
 
 </head>
 <body>
-
+<?php include_once("analyticstracking.php") ?>
 <!-- load -->
 <div class="teamKraftt_load">
     <div class="circle">
@@ -432,7 +433,7 @@
 
         </div>
 
-        <a href="contact.html" class="button button-border border-aqua margin-top">
+        <a href="contact.php" class="button button-border border-aqua margin-top">
             <span class="color-aqua">Get in Touch</span>
         </a>
         <!-- #SLOGAN -->

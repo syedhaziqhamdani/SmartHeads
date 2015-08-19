@@ -8,11 +8,14 @@
     <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height"/>
     <meta name="HandheldFriendly" content="true"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>SmartHeads</title>
+    <title>SmartHeads - A creative agency that builds awesome stuff all day, every day.</title>
+    <meta name="Description" content="SmartHeads - A creative agency that builds awesome stuff all day, every day. And we’ve had the privilege to work with some awesome clients.">
+    <meta name="Keywords" content="SmartHeads, Web Designing, Graphic Designing, Software Consultancy, Software Development, Web Development, Mobile Application Development, Social Media Marketing">
     <!-- JQUERY -->
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <!-- perfect scrollbar JQUERY -->
     <script type="text/javascript" src="js/perfect-scrollbar.jquery.min.js"></script>
+
     <!-- styles -->
     <!-- Google font -->
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic' rel='stylesheet' type='text/css'>
@@ -61,6 +64,25 @@
 
 </head>
 <body>
+<?php include_once("analyticstracking.php") ?>
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
 <!-- load -->
 <div class="teamKraftt_load">
     <div class="circle">
@@ -69,8 +91,9 @@
     </div>
 </div>
 <!-- header -->
+<a href="#" data-toggle="modal" data-target="#myModal"><img src="images/get%20the%20quote.png" style="position:fixed; top:0; right:0; z-index: 9999;" width="120" height="122" class="pull-right"></a>
 <header class="header header-visible" id="header">
-    <!-- container -->
+        <!-- container -->
     <div class="container">
         <div class="row">
             <!-- header content -->
@@ -514,7 +537,7 @@
 
     <!-- portfolio work assets-->
     <div class="portfolio-work-assets">
-        <img src="images/portfolio/test2.jpg" alt="">
+        <img src="images/portfolio/4.jpg" alt="">
     </div>
     <!-- #portfolio work assets-->
 
